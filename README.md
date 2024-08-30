@@ -1,11 +1,11 @@
-<h1 align="center">Hello ,I'm Vinicius Serpa</h1>
+<h1 align="center">Hello! I'm Vinicius Serpa 👨🏻‍💻</h1>
 <h3 align="center">iOS Developer - Apple Developer Academy | Mackenzie </h3>
 
 - 🔭 My actual main project is **Murall - Say goodbye to boring panels**
 
 - 🎓 Universidade Presbiteriana Mackenzie - **Computer Science Degree / 5th Semester**
 
-- 👨🏻‍💻 My apps on appStore [https://apps.apple.com/ge/developer/vinicius-serpa/id1711839574](https://apps.apple.com/ge/developer/vinicius-serpa/id1711839574)
+- 📱 My apps on appStore [https://apps.apple.com/ge/developer/vinicius-serpa/id1711839574](https://apps.apple.com/ge/developer/vinicius-serpa/id1711839574)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
