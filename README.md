@@ -1,5 +1,5 @@
 <h1 align="center">Hello ,I'm Vinicius Serpa</h1>
-<h3 align="center">iOS Developer - Apple Developer Academy | Mackenzie Student</h3>
+<h3 align="center">iOS Developer - Apple Developer Academy | Mackenzie </h3>
 
 - 🔭 My actual main project is **Murall - Say goodbye to boring panels**
 
