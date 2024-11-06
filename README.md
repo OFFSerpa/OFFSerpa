@@ -5,7 +5,7 @@
 
 - 🎓 Universidade Presbiteriana Mackenzie - **Computer Science Degree / 5th Semester**
 
-- 📱 My apps on AppStore https://apple.co/4f6mzxn
+- 📱 My apps on AppStore https://beacons.ai/offserpa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
