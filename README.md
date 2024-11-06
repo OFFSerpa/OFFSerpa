@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Vinicius Serpa 👨🏻‍💻</h1>
 <h3 align="center">iOS Developer - Apple Developer Academy | Mackenzie </h3>
 
-- 🔭 My actual main project is **Murall - Build your Vision**  - Already Available on AppStore https://bit.ly/MurallApp
+- 🔭 My actual main project is **Murall - Build your Vision**  - Already Available on AppStore https://apple.co/48DLJAW
 
 - 🎓 Universidade Presbiteriana Mackenzie - **Computer Science Degree / 5th Semester**
 
