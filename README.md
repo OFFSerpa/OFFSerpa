@@ -1,9 +1,10 @@
 <h1 align="center">Hello! I'm Vinicius Serpa 👨🏻‍💻</h1>
-<h3 align="center">iOS Developer - Apple Developer Academy | Mackenzie </h3>
+<h3 align="center">iOS Developer - BTG Pactual   🍎 Apple Developer Academy Alumni </h3>
+
 
 - 🔭 My actual main project is **Murall - Build your Vision**  - Already Available on AppStore https://beacons.ai/offserpa
 
-- 🎓 Universidade Presbiteriana Mackenzie - **Computer Science Degree / 5th Semester**
+- 🎓 Universidade Presbiteriana Mackenzie - **Computer Science Degree / 7th Semester**
 
 - 📱 My apps on AppStore https://beacons.ai/offserpa
 
